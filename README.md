@@ -8,4 +8,10 @@ Tool used: R
 
 Method: Xgboost
 
+Important variables for cat 
+
 ![alt tag](https://github.com/vergil9312/Xgboost-Shelther-Animals/blob/master/Xgboost/cat.feature%20importance.png?raw=true)
+
+Important variables for dog
+
+![alt tag](https://github.com/vergil9312/Xgboost-Shelther-Animals/blob/master/Xgboost/dog.feature%20importance.png?raw=true)
