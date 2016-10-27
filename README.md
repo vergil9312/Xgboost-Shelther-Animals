@@ -7,3 +7,5 @@ The primary aim of this competition is to use a data-driven approach to identify
 Tool used: R
 
 Method: Xgboost
+
+![alt tag](https://github.com/vergil9312/Xgboost-Shelther-Animals/blob/master/Xgboost/cat.feature%20importance.png?raw=true)
